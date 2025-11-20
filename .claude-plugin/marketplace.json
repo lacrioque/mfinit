@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "mf-init",
-      "source": "./../",
+      "source": "./",
       "description": "Initialize projects with global coding guidelines, optional Beads integration, and git setup",
       "author": {
         "name": "Markus Flür"
@@ -17,7 +17,7 @@
       "license": "MIT",
       "keywords": ["scaffold", "init", "guidelines", "beads", "project-setup"],
       "category": "development",
-      "version": "1.1.1"
+      "version": "1.1.2"
     }
   ]
 }
