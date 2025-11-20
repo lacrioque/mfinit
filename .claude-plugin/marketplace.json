@@ -1,25 +1,21 @@
 {
   "name": "mfinit",
+  "description": "Project scaffolding plugin for Claude Code with global guidelines and tooling setup",
   "owner": {
-    "name": "lacrioque",
-    "email": "noreply@github.com"
-  },
-  "metadata": {
-    "description": "Project scaffolding plugin for Claude Code with global guidelines and tooling setup",
-    "version": "1.0.0"
+    "name": "Markus Flür"
   },
   "plugins": [
     {
       "name": "mf-init",
-      "source": ".",
+      "source": "./",
       "description": "Initialize projects with global coding guidelines, optional Beads integration, and git setup",
-      "version": "1.0.0",
       "author": "lacrioque",
       "homepage": "https://github.com/lacrioque/mfinit",
       "repository": "https://github.com/lacrioque/mfinit",
       "license": "MIT",
       "keywords": ["scaffold", "init", "guidelines", "beads", "project-setup"],
-      "category": "development"
+      "category": "development",
+      "version": "1.0.0"
     }
   ]
 }
