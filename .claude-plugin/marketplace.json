@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "mf-init",
-      "source": "./",
+      "source": "../",
       "description": "Initialize projects with global coding guidelines, optional Beads integration, and git setup",
       "author": {
         "name": "Markus Flür"
