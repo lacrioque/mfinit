@@ -1,0 +1,15 @@
+{
+  "name": "@mf/init-plugin",
+  "version": "1.0.0",
+  "description": "Project scaffolding plugin for Claude Code",
+  "main": "index.js",
+  "keywords": ["claude-code", "plugin", "scaffold"],
+  "claudeCode": {
+    "commands": {
+      "mf:init": {
+        "description": "Initialize a new project with guidelines and optional beads support",
+        "prompt": ".claude/commands/mf-init.md"
+      }
+    }
+  }
+}
