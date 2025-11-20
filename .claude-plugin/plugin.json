@@ -12,7 +12,7 @@
   "commands": {
     "mf:init": {
       "description": "Initialize a new project with guidelines and optional beads support",
-      "prompt": "./commands/mf-init.md"
+      "source": "./commands/mf-init.md"
     }
   }
 }
