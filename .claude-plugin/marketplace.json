@@ -9,7 +9,9 @@
       "name": "mf-init",
       "source": "./",
       "description": "Initialize projects with global coding guidelines, optional Beads integration, and git setup",
-      "author": "lacrioque",
+      "author": {
+        "name": "Markus Flür"
+      },
       "homepage": "https://github.com/lacrioque/mfinit",
       "repository": "https://github.com/lacrioque/mfinit",
       "license": "MIT",
