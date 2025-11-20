@@ -1,0 +1,16 @@
+{
+  "name": "mf-init",
+  "description": "Initialize projects with global coding guidelines, optional Beads integration, and git setup",
+  "version": "1.0.0",
+  "author": "Markus Flür",
+  "license": "MIT",
+  "homepage": "https://github.com/lacrioque/mfinit",
+  "repository": "https://github.com/lacrioque/mfinit",
+  "keywords": ["scaffold", "init", "guidelines", "beads", "project-setup"],
+  "commands": {
+    "mf:init": {
+      "description": "Initialize a new project with guidelines and optional beads support",
+      "prompt": "./commands/mf-init.md"
+    }
+  }
+}
